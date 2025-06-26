@@ -1,21 +1,5 @@
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ninnyyy/Ninnyyy/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ninnyyy/Ninnyyy/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ninnyyy/Ninnyyy/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ninnyyy.Ninnyyy&left_color=rebeccapurple&right_color=rebeccapurple"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ninnyyy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ninnyyy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -48,6 +32,22 @@
 
 ###
 
+<br clear="both">
+
+<img align="left" height="285" src="https://cdn.discordapp.com/attachments/807809192537882647/1333673032572604468/get_jugggily_with_it.gif?ex=685d860d&is=685c348d&hm=a92cbecef55e801007610d3fa5e1822c0864827507b9892335f7541a3afaffb9&"  />
+
+###
+
+<img align="right" height="285" src="https://cdn.discordapp.com/attachments/807809192537882647/1333673032572604468/get_jugggily_with_it.gif?ex=685d860d&is=685c348d&hm=a92cbecef55e801007610d3fa5e1822c0864827507b9892335f7541a3afaffb9&"  />
+
+###
+
+<div align="center">
+  <img height="300" src="https://media1.tenor.com/m/aFz34-PHfj8AAAAd/undetectable-until-inject-ud-unitl-inject.gif"  />
+</div>
+
+###
+
 <div align="center">
   <a href="https://www.youtube.com/@Ninnyisbaby" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -59,18 +59,8 @@
 
 ###
 
-<br clear="both">
-
-<img align="left" height="285" src="https://cdn.discordapp.com/attachments/807809192537882647/1333673032572604468/get_jugggily_with_it.gif?ex=685d860d&is=685c348d&hm=a92cbecef55e801007610d3fa5e1822c0864827507b9892335f7541a3afaffb9&"  />
-
-###
-
-<img align="right" height="285" src="https://cdn.discordapp.com/attachments/807809192537882647/1333673032572604468/get_jugggily_with_it.gif?ex=685d860d&is=685c348d&hm=a92cbecef55e801007610d3fa5e1822c0864827507b9892335f7541a3afaffb9&"  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Ninnyyy/Ninnyyy/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ninnyyy.Ninnyyy&left_color=blue&right_color=blue"  />
+</div>
 
 ###
