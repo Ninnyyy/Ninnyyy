@@ -1,3 +1,13 @@
+<br clear="both">
+
+<img align="left" height="285" src="https://cdn.discordapp.com/attachments/807809192537882647/1333673032572604468/get_jugggily_with_it.gif?ex=685d860d&is=685c348d&hm=a92cbecef55e801007610d3fa5e1822c0864827507b9892335f7541a3afaffb9&"  />
+
+###
+
+<img align="right" height="285" src="https://cdn.discordapp.com/attachments/807809192537882647/1333673032572604468/get_jugggily_with_it.gif?ex=685d860d&is=685c348d&hm=a92cbecef55e801007610d3fa5e1822c0864827507b9892335f7541a3afaffb9&"  />
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ninnyyy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
@@ -28,22 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img align="left" height="285" src="https://cdn.discordapp.com/attachments/807809192537882647/1333673032572604468/get_jugggily_with_it.gif?ex=685d860d&is=685c348d&hm=a92cbecef55e801007610d3fa5e1822c0864827507b9892335f7541a3afaffb9&"  />
-
-###
-
-<img align="right" height="285" src="https://cdn.discordapp.com/attachments/807809192537882647/1333673032572604468/get_jugggily_with_it.gif?ex=685d860d&is=685c348d&hm=a92cbecef55e801007610d3fa5e1822c0864827507b9892335f7541a3afaffb9&"  />
-
-###
-
-<div align="center">
-  <img height="300" src="https://media1.tenor.com/m/aFz34-PHfj8AAAAd/undetectable-until-inject-ud-unitl-inject.gif"  />
 </div>
 
 ###
