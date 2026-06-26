@@ -1,4 +1,4 @@
-<p align="center">Hey, I’m Ninny. I’m Studying cybersecurity and learning everything from ethical hacking and network defense to reverse engineering.</p>
+<p align="center">Hey, I’m Ninny. I’m a cybersecurity student, game cheat developer, and bypass specialist with experience in ethical hacking, network defense, and reverse engineering. I’ve always been the type of person who wants to know how things work, especially when it comes to games, software, and security systems. I like digging into game code, understanding how mechanics work, figuring out how systems are built, and pushing my skills further through projects. Cybersecurity gives me a space to think from both an attacker’s and defender’s point of view, whether I’m studying vulnerabilities, working on bypass research, or building deeper security knowledge. I’m focused on growing in cyber, taking on harder challenges, and constantly improving at what I do. Also, I love cats. </p>
 
 ###
 
